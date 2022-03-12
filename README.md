@@ -22,6 +22,13 @@ git commit -am "Update: Readme.md"`
 git push origin <branch>
 ```
 
+MR test
+Github menu Pull Request
+
+
+Graph
+Insigts/Netrowk
+
 ## Stateless/Statefull
 
 ## Stocks screener automatization
@@ -64,6 +71,6 @@ list - список чего-то
 
 For database somethin similar
 
-MR test
+
 
 
